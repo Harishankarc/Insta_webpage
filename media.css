@@ -1,0 +1,7 @@
+@media screen and (max-width : 600px){
+    .name{
+        font-size: 40px;
+        color: blueviolet;
+        margin-bottom: 0px;
+    }
+}
