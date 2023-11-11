@@ -1,4 +1,7 @@
 @media screen and (max-width : 600px){
+    .main_container{
+        width: 100%;
+    }
     .name{
         font-size: 40px;
         color: blueviolet;
