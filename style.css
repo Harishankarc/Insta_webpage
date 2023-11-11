@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.text_container{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.name{
+    font-size: 60px;
+    color: blueviolet;
+    margin-bottom: 0px;
+}
+.description{
+    font-size: 12px;
+    margin-top: 0px;
+}
+.link{
+    width: 30px;
+    display: inline-block;
+    gap: 3rem;
+}
+.logo_element{
+    display: inline-block;
+    /* margin-left: 20px; */
+    margin-top: 20px;
+}
+.text{
+    font-size: 10px;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+}
