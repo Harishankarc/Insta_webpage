@@ -2,11 +2,15 @@
     .main_container{
         width: 90%;
     }
+    .link{
+        width : 80%;
+    }
     .name{
-        font-size: 40px;
+        font-size: 30px;
         color: blueviolet;
         margin-bottom: 0px;
         margin-left: 20px;
         margin-right: 20px;
+        
     }
 }
